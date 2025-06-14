@@ -38,9 +38,8 @@ This project employs:
 4) System Information Commands: id, ifconfig, etc.
 
 ## Setup Instructions
-Clone this repository:
-git clone https://github.com/gtretiak/42School/blob/main/Piscine-2024/shell01
-cd shell01
+Clone the repository:
+cd Shell_01
 Each exercise is contained in its own directory (ex01, ex02, etc.)
 Make all scripts executable:
 chmod +x ex01/print_groups.sh ex02/find_sh.sh ex03/count_files.sh ex04/MAC.sh
